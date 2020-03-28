@@ -14,4 +14,4 @@ Esse efeito é bem fácil de se jogar com duas sombras. Mas, para que funcione, 
 
 # Quer saber mais sobre Neomorfismo?
 
-* Acesse [Neumorphism in user interfaces](https://guides.github.com/features/mastering-markdown/)
+* Acesse [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
